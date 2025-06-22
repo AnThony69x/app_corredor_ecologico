@@ -39,6 +39,7 @@ dependencies:
 
   # 🔐 Para usar variables de entorno (opcional)
   flutter_dotenv: ^5.1.0
+  logger: ^2.5.0
 
 dev_dependencies:
   flutter_test:
