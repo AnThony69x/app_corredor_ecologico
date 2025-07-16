@@ -1,0 +1,2682 @@
+[
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": null,
+   "FIELD2": "Familia ",
+   "FIELD3": "Nombre en Ingles",
+   "FIELD4": "Nombre cientifico",
+   "FIELD5": "Nombre Espa�ol ",
+   "FIELD6": "Nombre Com�n",
+   "FIELD7": "Fotograf�a",
+   "FIELD8": "Sonido"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 1,
+   "FIELD2": "Trochilidae",
+   "FIELD3": "Amazilia Hummingbird",
+   "FIELD4": "Amazilis amazilia",
+   "FIELD5": "Colibr� coste�o",
+   "FIELD6": "Colibr� de la costa  ",
+   "FIELD7": "",
+   "FIELD8": "https://media.audubon.org/nas_birdapi_file/COSHUM_1.song_UTkc_0.mp3?v=b"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 2,
+   "FIELD2": "Passerellidae",
+   "FIELD3": "Black-capped Sparrow",
+   "FIELD4": "Arremon abeillei",
+   "FIELD5": "Salt�n Gorrinegro",
+   "FIELD6": "Salt�n de garganta negra  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exLlamados_Arremon%20abeillei.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 3,
+   "FIELD2": "Icteridae",
+   "FIELD3": "Yellow-rumped Cacique",
+   "FIELD4": "Cacicus cela",
+   "FIELD5": "Cacique lomiamarillo",
+   "FIELD6": "Cacique lomiamarillo  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Cacicus%20cela.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 4,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Southern Beardless Tyrannulet",
+   "FIELD4": "Camptostoma obsoletum",
+   "FIELD5": "Tiranolete Silbador Sure�o",
+   "FIELD6": "Tiranolete sure�o  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoCamptostoma%20obsoletum.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 5,
+   "FIELD2": "Cathartidae",
+   "FIELD3": "Turkey Vulture",
+   "FIELD4": "Cathartes aura",
+   "FIELD5": "Gallinazo Cabecirojo",
+   "FIELD6": "Zopilote cabecirrojo  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Cathartes%20aura.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 6,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Hook-billed Kite",
+   "FIELD4": "Chondrohierax uncinatus",
+   "FIELD5": "Elanio Piquiganchudo",
+   "FIELD6": "Elanio pico de gancho  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Chondrohierax%20uncinatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 7,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Henna-hooded Foliage-gleaner",
+   "FIELD4": "Clibanornis erythrocephalus",
+   "FIELD5": "Rascahojas Capuchirrufo",
+   "FIELD6": "Rascahojas de capucha rufo  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Clibanornis%20erythrocephalus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 8,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Bananaquit",
+   "FIELD4": "Coereba flaveola",
+   "FIELD5": "Mielero flavo",
+   "FIELD6": "Mielero amarillo  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Coereba%20flaveola.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 9,
+   "FIELD2": "Picidae",
+   "FIELD3": "Golden-olive Woodpecker",
+   "FIELD4": "Colaptes rubiginosus",
+   "FIELD5": "Carpintero Olividorado",
+   "FIELD6": "Carpintero dorado  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Colaptes%20rubiginosus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 10,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Ecuadorian Ground Dove",
+   "FIELD4": "Columbina buckleyi",
+   "FIELD5": "Paloma ecuatoriana terrestre",
+   "FIELD6": "Paloma terrestre ecuatoriana  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/4667Columba%20livia.MP3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 11,
+   "FIELD2": "Cathartidae",
+   "FIELD3": "Black Vulture",
+   "FIELD4": "Coragyps atratus",
+   "FIELD5": "Gallinazo Negro",
+   "FIELD6": "Zopilote negro  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Coragyps%20atratus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 12,
+   "FIELD2": "Cuculidae",
+   "FIELD3": "Groove-billed Ani",
+   "FIELD4": "Crotophaga sulcirostris",
+   "FIELD5": "Garrapatero Piquiestriado",
+   "FIELD6": "Garrapatero estriado  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Crotophaga%20sulcirostris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 13,
+   "FIELD2": "Tinamidae",
+   "FIELD3": "Pale-browed Tinamou",
+   "FIELD4": "Crypturellus transfasciatus",
+   "FIELD5": "Tinamu cejiblanco",
+   "FIELD6": "Tinam� cejiblanco  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Tinamus%20guttatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 14,
+   "FIELD2": "Vireonidae",
+   "FIELD3": "Rufous-browed Peppershrike",
+   "FIELD4": "Cyclarhis gujanensis",
+   "FIELD5": "Vire�n Cejirrufo",
+   "FIELD6": "Vireo cejirrufo  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exLlamados_Cyclarhis%20gujanensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 15,
+   "FIELD2": "Icteridae",
+   "FIELD3": "Scrub Blackbird",
+   "FIELD4": "Dives warczewiczi",
+   "FIELD5": "Negro Matorralero",
+   "FIELD6": "Matorralero negro  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Dives%20warczewiczi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 16,
+   "FIELD2": "Fringillidae",
+   "FIELD3": "Thick-billed Euphonia",
+   "FIELD4": "Euphonia laniirostris",
+   "FIELD5": "Euphonia piquigruesa",
+   "FIELD6": "Eufonia de pico grueso  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Euphonia%20laniirostris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 17,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Tawny-crowned Pygmy Tyrant",
+   "FIELD4": "Euscarthmus meloryphus",
+   "FIELD5": "Tirano Enano Frentileonado",
+   "FIELD6": "Tirano enano de frente leonada  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Euscarthmus%20meloryphus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 18,
+   "FIELD2": "Psittacidae",
+   "FIELD3": "Pacific Parrotlet",
+   "FIELD4": "Forpus coelestis",
+   "FIELD5": "Periquito del pac�fico",
+   "FIELD6": "Periquito del Pac�fico  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_LlamadoForpus%20coelestis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 19,
+   "FIELD2": "Fregatidae",
+   "FIELD3": "Magnificent Frigatebird",
+   "FIELD4": "Fregata magnificens",
+   "FIELD5": "Fragata Magn�fica",
+   "FIELD6": "Fragata magn�fica  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Fregata%20magnificens.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 20,
+   "FIELD2": "Strigidae",
+   "FIELD3": "Pacific Pygmy Owl",
+   "FIELD4": "Glaucidium peruanum",
+   "FIELD5": "Mochuelo del Pac�fico Peruano",
+   "FIELD6": "Mochuelo del Pac�fico  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Glaucidium%20peruanum.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 21,
+   "FIELD2": "Falconidae",
+   "FIELD3": "Laughing Falcon",
+   "FIELD4": "Herpetotheres cachinnans",
+   "FIELD5": "Halc�n reidor (valdivia)",
+   "FIELD6": "Halc�n carcajado  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Herpetotheres%20cachinnans.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 22,
+   "FIELD2": "Icteridae",
+   "FIELD3": "Peruvian Meadowlark",
+   "FIELD4": "Leistes bellicosa",
+   "FIELD5": "Pastorero Peruano",
+   "FIELD6": "Pastorcito peruano  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Sturnella%20bellicosa.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 23,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Streak-headed Woodcreeper",
+   "FIELD4": "Lepidocolaptes souleyetii",
+   "FIELD5": "Trepatroncos Cabecilistado",
+   "FIELD6": "Trepatroncos cabecilistado  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Lepidocolaptes%20souleyetii.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 24,
+   "FIELD2": "Columbidae",
+   "FIELD3": "White-tipped Dove",
+   "FIELD4": "Leptotila verreauxi",
+   "FIELD5": "Paloma apical",
+   "FIELD6": "Paloma apical  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/00_Leptotila%20verreauxi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 25,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Scale-crested Pygmy Tyrant",
+   "FIELD4": "Lophotriccus pileatus",
+   "FIELD5": "Cimerillo Crestiescamado",
+   "FIELD6": "Cimerillo crestiescamado  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Lophotriccus%20pileatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 26,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "White-shouldered Tanager",
+   "FIELD4": "Loriotus luctuosus",
+   "FIELD5": "Tangara Hombriblanca",
+   "FIELD6": "Tangara de hombros blancos  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Tachyphonus%20luctuosus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 27,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Boat-billed Flycatcher",
+   "FIELD4": "Megarynchus pitangua",
+   "FIELD5": "Mosquero Picudo",
+   "FIELD6": "Mosquero piquicorto  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Megarynchus%20pitangua.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 28,
+   "FIELD2": "Strigidae",
+   "FIELD3": "West Peruvian Screech Owl",
+   "FIELD4": "Megascops roboratus",
+   "FIELD5": "Autillo Roborado (Peruano)",
+   "FIELD6": "Autillo peruano  ",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Megascops%20roboratus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 29,
+   "FIELD2": "Melanopareiidae",
+   "FIELD3": "Elegant Crescentchest",
+   "FIELD4": "Melanopareia elegans",
+   "FIELD5": "Pecholuna Elegante",
+   "FIELD6": "Pecholuna Elegante",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Melanopareia%20elegans.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 30,
+   "FIELD2": "Mimidae",
+   "FIELD3": "Long-tailed Mockingbird",
+   "FIELD4": "Mimus longicaudatus",
+   "FIELD5": "sinsonte colilargo",
+   "FIELD6": "Sinsonte Colilargo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Mimus%20gilvus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 31,
+   "FIELD2": "Momotidae",
+   "FIELD3": "Whooping Motmot",
+   "FIELD4": "Momotus subrufescens",
+   "FIELD5": "Motmot grit�n",
+   "FIELD6": "Motmot Grit�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Momotus%20subrufescens.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 32,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Dusky-capped Flycatcher",
+   "FIELD4": "Myiarchus tuberculifer",
+   "FIELD5": "Copet�n Crestioscuro",
+   "FIELD6": "Copet�n Crestioscuro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiarchus%20tuberculifer.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 33,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Sooty-crowned Flycatcher",
+   "FIELD4": "Myiarchus phaeocephalus",
+   "FIELD5": "Copet�n Coronitiznado",
+   "FIELD6": "Copet�n Coronitiznado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiarchus%20phaeocephalus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 34,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Streaked Flycatcher",
+   "FIELD4": "Myiodynastes maculatus",
+   "FIELD5": "Mosquero rayado",
+   "FIELD6": "Mosquero Rayado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiodynastes%20maculatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 35,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Pacific Elaenia",
+   "FIELD4": "Myiopagis subplacens",
+   "FIELD5": "Elenita del pac�fico",
+   "FIELD6": "Elenita del Pac�fico",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Myiopagis%20subplacens.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 36,
+   "FIELD2": "Parulidae",
+   "FIELD3": "Grey-and-gold Warbler",
+   "FIELD4": "Myiothlypis fraseri",
+   "FIELD5": "Reinita Grisidorada",
+   "FIELD6": "Reinita Grisidorada",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiothlypis%20fraseri.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 37,
+   "FIELD2": "Caprimulgidae",
+   "FIELD3": "Pauraque",
+   "FIELD4": "Nyctidromus albicollis",
+   "FIELD5": "Pauraque",
+   "FIELD6": "Pauraque",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Nyctidromus%20albicollis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 38,
+   "FIELD2": "Caprimulgidae",
+   "FIELD3": "Anthony's Nightjar",
+   "FIELD4": "Nyctidromus anthonyi",
+   "FIELD5": "Chotacabras de Anthony (Matorralero)",
+   "FIELD6": "Chotacabras de Anthony",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Nyctidromus%20anthonyi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 39,
+   "FIELD2": "Cracidae",
+   "FIELD3": "Rufous-headed Chachalaca",
+   "FIELD4": "Ortalis erythroptera",
+   "FIELD5": "Chachalaca (Guacharaca) Cabecirrufa",
+   "FIELD6": "Chachalaca Cabecirrufa",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Ortalis%20erythroptera.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 40,
+   "FIELD2": "Tityridae",
+   "FIELD3": "Black-and-white Becard",
+   "FIELD4": "Pachyramphus albogriseus",
+   "FIELD5": "Cabez�n Blanquinegro",
+   "FIELD6": "Cabez�n Blanquinegro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Pachyramphus%20albogriseus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 41,
+   "FIELD2": "Tityridae",
+   "FIELD3": "One-colored Becard",
+   "FIELD4": "Pachyramphus homochrous",
+   "FIELD5": "Cabez�n Unicolor",
+   "FIELD6": "Cabez�n Unicolor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Pachyramphus%20homochrous.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 42,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Pale-vented Pigeon",
+   "FIELD4": "Patagioenas cayennensis",
+   "FIELD5": "Paloma ventripalida",
+   "FIELD6": "Paloma Ventripalida",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoPatagioenas%20cayennensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 43,
+   "FIELD2": "Pelecanidae",
+   "FIELD3": "Brown Pelican",
+   "FIELD4": "Pelecanus occidentalis",
+   "FIELD5": "Pel�cano pardo",
+   "FIELD6": "Pel�cano Pardo",
+   "FIELD7": "",
+   "FIELD8": "https://sounddino.com/es/effects/pelican/"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 44,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Tumbesian Tyrannulet",
+   "FIELD4": "Phaeomyias murina",
+   "FIELD5": "Tiranolete de Tumbes",
+   "FIELD6": "Tiranolete de Tumbes",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoPhaeomyias%20murina.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 45,
+   "FIELD2": "Cardinalidae",
+   "FIELD3": "Golden Grosbeak",
+   "FIELD4": "Pheucticus chrysogaster",
+   "FIELD5": "Picogrueso Dorado (Huiracchuro)",
+   "FIELD6": "Picogrueso Dorado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Parkerthraustes%20humeralis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 46,
+   "FIELD2": "Polioptilidae",
+   "FIELD3": "White-browed Gnatcatcher",
+   "FIELD4": "Polioptila plumbea",
+   "FIELD5": "Perlita Cejiblanca",
+   "FIELD6": "Perlita Cejiblanca",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Polioptila%20plumbea.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 47,
+   "FIELD2": "Hirundinidae",
+   "FIELD3": "Gray-breasted Martin",
+   "FIELD4": "Progne chalybea",
+   "FIELD5": "Martin pechigris",
+   "FIELD6": "Mart�n Pechigris",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/61219 "
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 48,
+   "FIELD2": "Strigidae",
+   "FIELD3": "Spectacled Owl",
+   "FIELD4": "Pulsatrix perspicillata",
+   "FIELD5": "B�ho de Anteojos",
+   "FIELD6": "B�ho de Anteojos",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Pulsatrix%20perspicillata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 49,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Scarlet Flycatcher",
+   "FIELD4": "Pyrocephalus rubinus",
+   "FIELD5": "Mosquero Escarlata",
+   "FIELD6": "Mosquero Escarlata",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Pyrocephalus%20rubinus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 50,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Crimson-breasted Finch",
+   "FIELD4": "Rhodospingus cruentus",
+   "FIELD5": "Pinz�n Pechicarmes�",
+   "FIELD6": "Pinz�n Pechicarmes�",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Rhodospingus%20cruentus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 51,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Streaked Saltator",
+   "FIELD4": "Saltator striatipectus",
+   "FIELD5": "Saltador listado",
+   "FIELD6": "Saltador Listado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Saltator%20striatipectus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 52,
+   "FIELD2": "Parulidae",
+   "FIELD3": "Tropical parula",
+   "FIELD4": "Setophaga pitiayumi",
+   "FIELD5": "Parula tropical",
+   "FIELD6": "Parula Tropical",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Setophaga%20pitiayumi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 53,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Saffron Finch",
+   "FIELD4": "Sicalis flaveola",
+   "FIELD5": "Pinz�n Sabanero Azafranado",
+   "FIELD6": "Pinz�n Sabanero Azafranado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Sicalis%20flaveola.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 54,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Variable Seedeater",
+   "FIELD4": "Sporophila corvina",
+   "FIELD5": "Espiguero variable",
+   "FIELD6": "Espiguero Variable",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Sporophila%20corvina.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 55,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Chestnut-throated Seedeater",
+   "FIELD4": "Sporophila telasco",
+   "FIELD5": "Espiguero Gorgicasta�o",
+   "FIELD6": "Espiguero Gorgicasta�o",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Sporophila%20telasco.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 56,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Necklaced Spinetail",
+   "FIELD4": "Synallaxis stictothorax",
+   "FIELD5": "Colaespina collareja",
+   "FIELD6": "Colaespina Collareja",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Synallaxis%20stictothorax.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 57,
+   "FIELD2": "Cuculidae",
+   "FIELD3": "Striped Cuckoo",
+   "FIELD4": "Tapera naevia",
+   "FIELD5": "Cuclillo Cresp�n",
+   "FIELD6": "Cuclillo Cresp�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Tapera%20naevia.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 58,
+   "FIELD2": "Thamnophilidae",
+   "FIELD3": "Great Antshrike",
+   "FIELD4": "Taraba major",
+   "FIELD5": "Batar� Mayor",
+   "FIELD6": "Batar� Mayor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoTaraba%20major.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 59,
+   "FIELD2": "Thamnophilidae",
+   "FIELD3": "Collared Antshrike",
+   "FIELD4": "Thamnophilus bernardi",
+   "FIELD5": "Batar� Collarejo",
+   "FIELD6": "Batar� Collarejo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Thamnophilus%20bernardi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 60,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Blue-gray Tanager",
+   "FIELD4": "Thraupis episcopus",
+   "FIELD5": "Tangara azuleja",
+   "FIELD6": "Tangara Azuleja",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Thraupis%20episcopus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 61,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Yellow-olive Flatbill",
+   "FIELD4": "Tolmomyias sulphurescens",
+   "FIELD5": "Picoancho Azufrado",
+   "FIELD6": "Picoancho Azufrado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Tolmomyias%20sulphurescens.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 62,
+   "FIELD2": "Troglodytidae",
+   "FIELD3": "House Wren",
+   "FIELD4": "Troglodytes aedon",
+   "FIELD5": "Soterrey criollo",
+   "FIELD6": "Soterrey Criollo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Troglodytes%20aedon.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 63,
+   "FIELD2": "Trogonidae",
+   "FIELD3": "Gartered Trogon",
+   "FIELD4": "Trogon caligatus",
+   "FIELD5": "Trog�n Jarretero (Viol�ceo Norte�o)",
+   "FIELD6": "Trog�n Jarretero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Trogon%20caligatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 64,
+   "FIELD2": "Trogonidae",
+   "FIELD3": "Choco Trogon",
+   "FIELD4": "Trogon comptus",
+   "FIELD5": "Trog�n del Choc� (Coliazul)",
+   "FIELD6": "Trog�n del Choc�",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Trogon%20comptus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 65,
+   "FIELD2": "Trogonidae",
+   "FIELD3": "Ecuadorian Trogon",
+   "FIELD4": "Trogon mesurus",
+   "FIELD5": "Trogon ecuatoriano",
+   "FIELD6": "Trog�n Ecuatoriano",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Trogon%20mesurus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 66,
+   "FIELD2": "Turdidae",
+   "FIELD3": "Plumbeous-backed Thrush",
+   "FIELD4": "Turdus reevei",
+   "FIELD5": "Mirlo Dorsiplomizo",
+   "FIELD6": "Mirlo Dorsiplomizo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Turdus%20reevei.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 67,
+   "FIELD2": "Turdidae",
+   "FIELD3": "Ecuadorian Thrush",
+   "FIELD4": "Turdus maculirostris",
+   "FIELD5": "Mirlo ecuatoriano",
+   "FIELD6": "Mirlo Ecuatoriano",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Turdus%20maculirostris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 68,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Tropical Kingbird",
+   "FIELD4": "Tyrannus melancholicus",
+   "FIELD5": "Tirano Tropical",
+   "FIELD6": "Tirano Tropical",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Tyrannus%20melancholicus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 69,
+   "FIELD2": "Picidae",
+   "FIELD3": "Scarlet-backed Woodpecker",
+   "FIELD4": "Veniliornis callonotus",
+   "FIELD5": "Carpintero Dorsiescarlata",
+   "FIELD6": "Carpintero Dorsiescarlata",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Veniliornis%20callonotus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 70,
+   "FIELD2": "Vireonidae",
+   "FIELD3": "Red-eyed Vireo",
+   "FIELD4": "Vireo olivaceus",
+   "FIELD5": "Vireo Ojirrojo",
+   "FIELD6": "Vireo Ojirrojo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Vireo%20olivaceus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 71,
+   "FIELD2": "Vireonidae",
+   "FIELD3": "Chivi Vireo",
+   "FIELD4": "Vireo chivi",
+   "FIELD5": "Vireo Chiv�",
+   "FIELD6": "Vireo Chiv�",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Vireo%20flavoviridis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 72,
+   "FIELD2": "Columbidae",
+   "FIELD3": "West Peruvian Dove",
+   "FIELD4": "Zenaida meloda",
+   "FIELD5": "T�rtola Mel�dica",
+   "FIELD6": "T�rtola Mel�dica",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Zenaida%20meloda.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 73,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Eared Dove",
+   "FIELD4": "Zenaida auriculata",
+   "FIELD5": "T�rtola Orejuda",
+   "FIELD6": "T�rtola Orejuda",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Zenaida%20auriculata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 74,
+   "FIELD2": "Tinamidae",
+   "FIELD3": "Crypturellus transfasciatus",
+   "FIELD4": "Crypturellus transfasciatus",
+   "FIELD5": "Tinam� perlado",
+   "FIELD6": "Tinam� perlado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Crypturellus%20transfasciatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 75,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Buteo albonotatus",
+   "FIELD4": "Buteo albonotatus",
+   "FIELD5": "Gavil�n Colifajeado",
+   "FIELD6": "Gavil�n Colifajeado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoButeo%20albonotatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 76,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Columbina cruziana",
+   "FIELD4": "Columbina cruziana",
+   "FIELD5": "Tortolita Croante",
+   "FIELD6": "Tortolita Croante",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Columbina%20cruziana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 77,
+   "FIELD2": "Cuculidae",
+   "FIELD3": "Crotophaga ani",
+   "FIELD4": "Crotophaga ani",
+   "FIELD5": "Garrapatero Piquiliso",
+   "FIELD6": "Garrapatero Piquiliso",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Crotophaga%20ani.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 78,
+   "FIELD2": "Trochilidae",
+   "FIELD3": "Amazilia amazilia",
+   "FIELD4": "Amazilia amazilia",
+   "FIELD5": "Amazilia Ventrirrufa",
+   "FIELD6": "Amazilia coste�a",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Amazilia%20amazilia.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 79,
+   "FIELD2": "Momotidae",
+   "FIELD3": "Momotus momota",
+   "FIELD4": "Momotus momota",
+   "FIELD5": "Momoto Amaz�nico",
+   "FIELD6": "Momoto Amaz�nico",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Momotus%20momota.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 80,
+   "FIELD2": "Picidae",
+   "FIELD3": "Picumnus sclateri",
+   "FIELD4": "Picumnus sclateri",
+   "FIELD5": "Picolete Ecuatoriano",
+   "FIELD6": "Picolete Ecuatoriano",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Picumnus%20sclateri.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 81,
+   "FIELD2": "Psittacidae",
+   "FIELD3": "Brotogeris pyrrhoptera",
+   "FIELD4": "Brotogeris pyrrhoptera",
+   "FIELD5": "Perico ala amarilla",
+   "FIELD6": "Perico ala amarilla",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_LlamadoBrotogeris%20pyrrhoptera.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 82,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Furnarius leucopus",
+   "FIELD4": "Furnarius leucopus",
+   "FIELD5": "Hornero Patip�lido",
+   "FIELD6": "Hornero Patip�lido",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Furnarius%20leucopus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 83,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Phylloscartes ophthalmicus",
+   "FIELD4": "Phylloscartes ophthalmicus",
+   "FIELD5": "Orejerito Carijaspeado",
+   "FIELD6": "Orejerito Carijaspeado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Phylloscartes%20ophthalmicus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 84,
+   "FIELD2": "Tityridae",
+   "FIELD3": "Pachyramphus cinnamomeus",
+   "FIELD4": "Pachyramphus cinnamomeus",
+   "FIELD5": "Cabez�n Canelo",
+   "FIELD6": "Cabez�n Canelo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Pachyramphus%20cinnamomeus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 85,
+   "FIELD2": "Troglodytidae",
+   "FIELD3": "Pheugopedius sclateri",
+   "FIELD4": "Pheugopedius sclateri",
+   "FIELD5": "Soterrey Pechijaspeado",
+   "FIELD6": "Soterrey Pechijaspeado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Pheugopedius%20sclateri.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 86,
+   "FIELD2": "Troglodytidae",
+   "FIELD3": "Cantorchilus superciliaris",
+   "FIELD4": "Cantorchilus superciliaris",
+   "FIELD5": "Soterrey Cej�n",
+   "FIELD6": "Soterrey Cej�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Cantorchilus%20superciliaris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 87,
+   "FIELD2": "Polioptilidae",
+   "FIELD3": "Polioptila plumbea",
+   "FIELD4": "Polioptila plumbea",
+   "FIELD5": "Perlita tropical",
+   "FIELD6": "Perlita tropical",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Polioptila%20plumbea.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 88,
+   "FIELD2": "Cardinalidae",
+   "FIELD3": "Pheucticus chrysogaster",
+   "FIELD4": "Pheucticus chrysogaster",
+   "FIELD5": "Picogrueso Ventrioro",
+   "FIELD6": "Picogrueso Ventrioro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Pheucticus%20chrysogaster.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 89,
+   "FIELD2": "Tinamidae",
+   "FIELD3": "Little Tinamou",
+   "FIELD4": "Crypturellus soui",
+   "FIELD5": "Tinam� Chico",
+   "FIELD6": "Tinam� Chico",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Crypturellus%20soui.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 90,
+   "FIELD2": "Podicipedidae",
+   "FIELD3": "Least Grebe",
+   "FIELD4": "Tachybaptus dominicus",
+   "FIELD5": "Zambullidor Menor",
+   "FIELD6": "Zambullidor Menor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Tachybaptus%20dominicus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 91,
+   "FIELD2": "Podicipedidae",
+   "FIELD3": "Pied-billed Grebe",
+   "FIELD4": "Podilymbus podiceps",
+   "FIELD5": "Zambullidor Piquipinto",
+   "FIELD6": "Zambullidor Piquipinto",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Podilymbus%20podiceps.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 92,
+   "FIELD2": "Sulidae",
+   "FIELD3": "Nazca Booby",
+   "FIELD4": "Sula granti",
+   "FIELD5": "Piquero de Nazca",
+   "FIELD6": "Piquero de Nazca",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Sula%20granti.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 93,
+   "FIELD2": "Sulidae",
+   "FIELD3": "Blue-footed Booby",
+   "FIELD4": "Sula nebouxii",
+   "FIELD5": "Piquero Patas Azules",
+   "FIELD6": "Piquero Patas Azules",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Sula%20nebouxii.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 94,
+   "FIELD2": "Sulidae",
+   "FIELD3": "Peruvian Booby",
+   "FIELD4": "Sula variegata",
+   "FIELD5": "Piquero Peruano",
+   "FIELD6": "Piquero Peruano",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/species/sula-variegata "
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 95,
+   "FIELD2": "Phalacrocoracidae",
+   "FIELD3": "Neotropical Cormorant",
+   "FIELD4": "Phalacrocorax brasilianus",
+   "FIELD5": "Cormor�n Neotropical",
+   "FIELD6": "Pato Cuervo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Phalacrocorax%20brasilianus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 96,
+   "FIELD2": "Anhingidae",
+   "FIELD3": "Anhinga",
+   "FIELD4": "Anhinga anhinga",
+   "FIELD5": "Pato Aguja",
+   "FIELD6": "Pato Aguja",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Anhinga%20anhinga.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 97,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Fulvous Whistling-duck",
+   "FIELD4": "Dendrocygna bicolor",
+   "FIELD5": "Pato Silbador (Mar�a) Canelo",
+   "FIELD6": "Pato Silbador (Mar�a) Canelo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoDendrocygna%20bicolor.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 98,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Black-bellied Whistling- duck",
+   "FIELD4": "Dendrocygna autumnalis",
+   "FIELD5": "Pato Silbador Ventrinegro",
+   "FIELD6": "Pato Silbador Ventrinegro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoDendrocygna%20autumnalis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 99,
+   "FIELD2": "Anatidae",
+   "FIELD3": "White-cheeked Pintail",
+   "FIELD4": "Anas bahamensis",
+   "FIELD5": "�nade Cariblanco",
+   "FIELD6": "�nade Cariblanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Anas%20bahamensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 100,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Green-winged Teal",
+   "FIELD4": "Anas crecca carolinensis",
+   "FIELD5": "Cerceta Americana",
+   "FIELD6": "Cerceta Americana",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/explore?query=Cerceta%20Americana "
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 101,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Cinnamon Teal",
+   "FIELD4": "Spatula cyanoptera",
+   "FIELD5": "Cerceta Colorada",
+   "FIELD6": "Cerceta Colorada",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/explore?query=Cerceta%20Colorada "
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 102,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Blue-winged Teal",
+   "FIELD4": "Spatula discors",
+   "FIELD5": "Cerceta Aliazul",
+   "FIELD6": "Cerceta Aliazul",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/explore?query=Cerceta%20Aliazul "
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 103,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Northern Shoveler",
+   "FIELD4": "Spatula clypeata",
+   "FIELD5": "Pato Cuchara Norte�o",
+   "FIELD6": "Pato Cuchara Norte�o",
+   "FIELD7": "",
+   "FIELD8": "https://media.audubon.org/nas_birdapi_file/NORSHO_1.malechuxaampchuxcalls_NEle_1.mp3?v=b"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 104,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Southern Pochard",
+   "FIELD4": "Netta erythrophthalma",
+   "FIELD5": "Porr�n Sure�o",
+   "FIELD6": "Porr�n Sure�o",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoNetta%20erythrophthalma.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 105,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Muscovy Duck",
+   "FIELD4": "Cairina moschata",
+   "FIELD5": "Pato Real",
+   "FIELD6": "Pato Real",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Cairina%20moschata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 106,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Masked Duck",
+   "FIELD4": "Nomonyx dominicus",
+   "FIELD5": "Pato Enmascarado",
+   "FIELD6": "Pato Enmascarado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Nomonyx%20dominicus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 107,
+   "FIELD2": "Anatidae",
+   "FIELD3": "American Comb Duck",
+   "FIELD4": "Sarkidiornis sylvicola",
+   "FIELD5": "Pato Crestudo",
+   "FIELD6": "Pato Crestudo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoSarkidiornis%20melanotos.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 108,
+   "FIELD2": "Anatidae",
+   "FIELD3": "Lesser Scaup",
+   "FIELD4": "Aythya affinis",
+   "FIELD5": "Porr�n Menor",
+   "FIELD6": "Porr�n Menor",
+   "FIELD7": "",
+   "FIELD8": "https://media.audubon.org/nas_birdapi_file/LESSCA_1.courtingmales_NEtm_1.mp3?v=b"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 109,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Cocoi Heron",
+   "FIELD4": "Ardea cocoi",
+   "FIELD5": "Garz�n Cocoi",
+   "FIELD6": "Garz�n Cocoi",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Ardea%20cocoi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 110,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Great White Egret",
+   "FIELD4": "Ardea alba",
+   "FIELD5": "Garceta Grande",
+   "FIELD6": "Garceta Grande",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Ardea%20alba.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 111,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Great Blue Heron",
+   "FIELD4": "Ardea herodias",
+   "FIELD5": "Garz�n Azulado",
+   "FIELD6": "Garz�n Azulado",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/species/ardea-herodias "
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 112,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Snowy Egret",
+   "FIELD4": "Egretta thula",
+   "FIELD5": "Garceta N�vea",
+   "FIELD6": "Garceta N�vea",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Egretta%20thula.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 113,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Little Blue Heron",
+   "FIELD4": "Egretta caerulea",
+   "FIELD5": "Garceta Azul",
+   "FIELD6": "Garceta Azul",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Egretta%20caerulea.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 114,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Tricolored Heron",
+   "FIELD4": "Egretta tricolor",
+   "FIELD5": "Garceta Tricolor",
+   "FIELD6": "Garceta Tricolor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Egretta%20tricolor.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 115,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Green-backed Heron",
+   "FIELD4": "Butorides striata",
+   "FIELD5": "Garcilla Estriada",
+   "FIELD6": "Garcilla Estriada",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Butorides%20striata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 116,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Cattle Egret",
+   "FIELD4": "Bubulcus ibis",
+   "FIELD5": "Garceta Bueyera",
+   "FIELD6": "Garceta Bueyera",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/explore?query=Bubulcus%20ibis"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 117,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Black-crowned Night-heron",
+   "FIELD4": "Nycticorax nycticorax",
+   "FIELD5": "Garza Nocturna Coroninegra",
+   "FIELD6": "Garza Nocturna Coroninegra",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Nycticorax%20nycticorax.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 118,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Yellow-crowned Night- heron",
+   "FIELD4": "Nyctanassa violacea",
+   "FIELD5": "Garza Nocturna Cangrejera",
+   "FIELD6": "Garza Nocturna Cangrejera",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Nyctanassa%20violacea.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 119,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Rufescent Tiger-heron",
+   "FIELD4": "Tigrisoma lineatum",
+   "FIELD5": "Garza Tigre Casta�a",
+   "FIELD6": "Garza Tigre Casta�a",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Tigrisoma%20lineatum.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 120,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Pinnated Bittern",
+   "FIELD4": "Botaurus pinnatus",
+   "FIELD5": "Mirasol Neotropical",
+   "FIELD6": "Mirasol Neotropical",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Botaurus%20pinnatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 121,
+   "FIELD2": "Ardeidae",
+   "FIELD3": "Least Bittern",
+   "FIELD4": "Ixobrychus exilis",
+   "FIELD5": "Mirasol Menor",
+   "FIELD6": "Mirasol Menor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Ixobrychus%20exilis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 122,
+   "FIELD2": "Threskiornithidae",
+   "FIELD3": "White Ibis",
+   "FIELD4": "Eudocimus albus",
+   "FIELD5": "Ibis Blanco",
+   "FIELD6": "Ibis Blanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Eudocimus%20albus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 123,
+   "FIELD2": "Threskiornithidae",
+   "FIELD3": "Glossy Ibis",
+   "FIELD4": "Plegadis falcinellus",
+   "FIELD5": "Ibis Bronceado",
+   "FIELD6": "Ibis Bronceado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Plegadis%20falcinellus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 124,
+   "FIELD2": "Ciconiidae",
+   "FIELD3": "Wood Stork",
+   "FIELD4": "Mycteria americana",
+   "FIELD5": "Cig�e�a Americana",
+   "FIELD6": "Cig�e�a Americana",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Mycteria%20americana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 125,
+   "FIELD2": "Threskiornithidae",
+   "FIELD3": "Roseate Spoonbill",
+   "FIELD4": "Platalea ajaja",
+   "FIELD5": "Cuchareta Rosada",
+   "FIELD6": "Cuchareta Rosada",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Platalea%20ajaja.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 126,
+   "FIELD2": "Phoenicopteridae",
+   "FIELD3": "Chilean Flamingo",
+   "FIELD4": "Phoenicopterus chilensis",
+   "FIELD5": "Flamenco Chileno",
+   "FIELD6": "Flamenco Chileno",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_LlamadoPhoenicopterus%20chilensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 127,
+   "FIELD2": "Pandionidae",
+   "FIELD3": "Osprey",
+   "FIELD4": "Pandion haliaetus",
+   "FIELD5": "�guila Pescadora",
+   "FIELD6": "�guila Pescadora",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Pandion%20haliaetus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 128,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Pearl Kite",
+   "FIELD4": "Gampsonyx swainsonii",
+   "FIELD5": "Elanio Perla",
+   "FIELD6": "Elanio Perla",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Gampsonyx%20swainsonii.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 129,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Snail Kite",
+   "FIELD4": "Rostrhamus sociabilis",
+   "FIELD5": "Elanio Caracolero",
+   "FIELD6": "Elanio Caracolero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Rostrhamus%20sociabilis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 130,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Plumbeous Kite",
+   "FIELD4": "Ictinia plumbea",
+   "FIELD5": "Elanio Plomizo",
+   "FIELD6": "Elanio Plomizo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Ictinia%20plumbea.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 131,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "White-tailed Kite",
+   "FIELD4": "Elanus leucurus",
+   "FIELD5": "Elanio Coliblanco",
+   "FIELD6": "Elanio Coliblanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Elanus%20leucurus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 132,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Savanna Hawk",
+   "FIELD4": "Buteogallus meridionalis",
+   "FIELD5": "Gavil�n Sabanero",
+   "FIELD6": "Gavil�n Sabanero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Buteogallus%20meridionalis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 133,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Common Black Hawk",
+   "FIELD4": "Buteogallus anthracinus",
+   "FIELD5": "Gavil�n Negro Cangrejero",
+   "FIELD6": "Gavil�n Negro Cangrejero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Buteogallus%20anthracinus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 134,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Great Black Hawk",
+   "FIELD4": "Buteogallus urubitinga",
+   "FIELD5": "Gavil�n Negro Mayor",
+   "FIELD6": "Gavil�n Negro Mayor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Buteogallus%20urubitinga.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 135,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Grey-backed Hawk",
+   "FIELD4": "Pseudastur occidentalis",
+   "FIELD5": "Gavil�n Dorsigr�s",
+   "FIELD6": "Gavil�n Dorsigr�s",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Pseudastur%20occidentalis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 136,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Harris's Hawk",
+   "FIELD4": "Parabuteo unicinctus",
+   "FIELD5": "Gavil�n de Harris",
+   "FIELD6": "Gavil�n de Harris",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Parabuteo%20unicinctus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 137,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Roadside Hawk",
+   "FIELD4": "Rupornis magnirostris",
+   "FIELD5": "Gavil�n Campestre",
+   "FIELD6": "Gavil�n Campestre",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Rupornis%20magnirostris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 138,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Short-tailed Hawk",
+   "FIELD4": "Buteo brachyurus",
+   "FIELD5": "Gavil�n Colicorto",
+   "FIELD6": "Gavil�n Colicorto",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoButeo%20brachyurus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 139,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Swallow-tailed Kite",
+   "FIELD4": "Elanoides forficatus",
+   "FIELD5": "Elanio Tijereta",
+   "FIELD6": "Elanio Tijereta",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Elanoides%20forficatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 140,
+   "FIELD2": "Accipitridae",
+   "FIELD3": "Crane Hawk",
+   "FIELD4": "Geranospiza caerulescens",
+   "FIELD5": "Gavil�n Zanc�n",
+   "FIELD6": "Gavil�n Zanc�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Geranospiza%20caerulescens.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 141,
+   "FIELD2": "Falconidae",
+   "FIELD3": "Crested Caracara",
+   "FIELD4": "Caracara cheriway",
+   "FIELD5": "Caracara Crestado",
+   "FIELD6": "Caracara Crestado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Caracara%20cheriway.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 142,
+   "FIELD2": "Falconidae",
+   "FIELD3": "Merlin",
+   "FIELD4": "Falco columbarius",
+   "FIELD5": "Esmerej�n",
+   "FIELD6": "Esmerej�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Falco%20columbarius.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 143,
+   "FIELD2": "Falconidae",
+   "FIELD3": "Peregrine Falcon",
+   "FIELD4": "Falco peregrinus",
+   "FIELD5": "Halc�n Peregrino",
+   "FIELD6": "Halc�n Peregrino",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Falco%20peregrinus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 144,
+   "FIELD2": "Falconidae",
+   "FIELD3": "Bat Falcon",
+   "FIELD4": "Falco rufigularis",
+   "FIELD5": "Halc�n Cazamurci�lagos",
+   "FIELD6": "Halc�n Cazamurci�lagos",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Falco%20rufigularis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 145,
+   "FIELD2": "Rallidae",
+   "FIELD3": "White-throated Crake",
+   "FIELD4": "Laterallus albigularis",
+   "FIELD5": "Polluela Goliblanca",
+   "FIELD6": "Polluela Goliblanca",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Laterallus%20albigularis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 146,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Mangrove Rail",
+   "FIELD4": "Rallus longirostris",
+   "FIELD5": "Rasc�n Manglero",
+   "FIELD6": "Rasc�n Manglero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Rallus%20longirostris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 147,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Rufous-necked Wood-rail",
+   "FIELD4": "Aramides axillaris",
+   "FIELD5": "Rasc�n Mont�s Cuellirrufo",
+   "FIELD6": "Rasc�n Mont�s Cuellirrufo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Aramides%20axillaris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 148,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Spotted Rail",
+   "FIELD4": "Pardirallus maculatus",
+   "FIELD5": "Rasc�n Moteado",
+   "FIELD6": "Rasc�n Moteado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Pardirallus%20maculatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 149,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Sora",
+   "FIELD4": "Porzana carolina",
+   "FIELD5": "Sora",
+   "FIELD6": "Sora",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Porzana%20carolina.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 150,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Yellow-breasted Crake",
+   "FIELD4": "Hapalocrex flaviventer",
+   "FIELD5": "Polluela Pechiamarilla",
+   "FIELD6": "Polluela Pechiamarilla",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Porzana%20flaviventer.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 151,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Purple Gallinule",
+   "FIELD4": "Porphyrio martinicus",
+   "FIELD5": "Gallareta P�rpura",
+   "FIELD6": "Gallareta P�rpura",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Porphyrio%20martinica.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 152,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Paint-billed Crake",
+   "FIELD4": "Neocrex erythrops",
+   "FIELD5": "Polluela Piquipinta",
+   "FIELD6": "Polluela Piquipinta",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Mustelirallus%20erythrops.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 153,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Common Moorhen",
+   "FIELD4": "Gallinula chloropus",
+   "FIELD5": "Gallareta Com�n",
+   "FIELD6": "Gallareta Com�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Gallinula%20galeata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 154,
+   "FIELD2": "Rallidae",
+   "FIELD3": "Andean Coot",
+   "FIELD4": "Fulica ardesiaca",
+   "FIELD5": "Focha Andina",
+   "FIELD6": "Focha Andina",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Fulica%20ardesiaca.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 155,
+   "FIELD2": "Heliornithidae",
+   "FIELD3": "Sungrebe",
+   "FIELD4": "Heliornis fulica",
+   "FIELD5": "Ave Sol",
+   "FIELD6": "Ave Sol",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Heliornis%20fulica.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 156,
+   "FIELD2": "Aramidae",
+   "FIELD3": "Limpkin",
+   "FIELD4": "Aramus guarauna",
+   "FIELD5": "Carrao",
+   "FIELD6": "Carrao",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Aramus%20guarauna.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 157,
+   "FIELD2": "Jacanidae",
+   "FIELD3": "Wattled Jacana",
+   "FIELD4": "Jacana jacana",
+   "FIELD5": "Jacana Carunculada",
+   "FIELD6": "Jacana Carunculada",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Jacana%20jacana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 158,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Greater Yellowlegs",
+   "FIELD4": "Tringa melanoleuca",
+   "FIELD5": "Patiamarillo Mayor",
+   "FIELD6": "Patiamarillo Mayor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Tringa%20melanoleuca.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 159,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Lesser Yellowlegs",
+   "FIELD4": "Tringa flavipes",
+   "FIELD5": "Patiamarillo Menor",
+   "FIELD6": "Patiamarillo Menor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Tringa%20flavipes.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 160,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Solitary Sandpiper",
+   "FIELD4": "Tringa solitaria",
+   "FIELD5": "Andarr�os Solitario",
+   "FIELD6": "Andarr�os Solitario",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Tringa%20solitaria.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 161,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Willet",
+   "FIELD4": "Tringa semipalmata",
+   "FIELD5": "Vadeador Aliblanco",
+   "FIELD6": "Vadeador Aliblanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Tringa%20semipalmata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 162,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Wandering Tattler",
+   "FIELD4": "Tringa incana",
+   "FIELD5": "Playero Vagabundo",
+   "FIELD6": "Playero Vagabundo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Tringa%20incana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 163,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Spotted Sandpiper",
+   "FIELD4": "Actitis macularius",
+   "FIELD5": "Andarr�os Coleador",
+   "FIELD6": "Andarr�os Coleador",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Actitis%20macularius.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 164,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Whimbrel",
+   "FIELD4": "Numenius phaeopus",
+   "FIELD5": "Zarapito Trinador",
+   "FIELD6": "Zarapito Trinador",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Numenius%20phaeopus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 165,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Ruddy Turnstone",
+   "FIELD4": "Arenaria interpres",
+   "FIELD5": "Vuelvepiedras Rojizo",
+   "FIELD6": "Vuelvepiedras Rojizo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Arenaria%20interpres.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 166,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Red Knot",
+   "FIELD4": "Calidris canutus",
+   "FIELD5": "Playero Rojo",
+   "FIELD6": "Playero Rojo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20canutus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 167,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Semipalmated Sandpiper",
+   "FIELD4": "Calidris pusilla",
+   "FIELD5": "Playero Semipalmeado",
+   "FIELD6": "Playero Semipalmeado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20pusilla.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 168,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Baird's Sandpiper",
+   "FIELD4": "Calidris bairdii",
+   "FIELD5": "Playero de Baird",
+   "FIELD6": "Playero de Baird",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20bairdii.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 169,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Western Sandpiper",
+   "FIELD4": "Calidris mauri",
+   "FIELD5": "Playero Occidental",
+   "FIELD6": "Playero Occidental",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20mauri.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 170,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Least Sandpiper",
+   "FIELD4": "Calidris minutilla",
+   "FIELD5": "Playero Menor",
+   "FIELD6": "Playero Menor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20minutilla.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 171,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Pectoral Sandpiper",
+   "FIELD4": "Calidris melanotos",
+   "FIELD5": "Playero Pectoral",
+   "FIELD6": "Playero Pectoral",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20melanotos.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 172,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Stilt Sandpiper",
+   "FIELD4": "Calidris himantopus",
+   "FIELD5": "Playero Tarsilargo",
+   "FIELD6": "Playero Tarsilargo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20himantopus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 173,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Surfbird",
+   "FIELD4": "Calidris virgata",
+   "FIELD5": "Rompientero",
+   "FIELD6": "Rompientero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20virgata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 174,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Sanderling",
+   "FIELD4": "Calidris alba",
+   "FIELD5": "Playero Arenero",
+   "FIELD6": "Playero Arenero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Calidris%20alba.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 175,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Short-billed Dowitcher",
+   "FIELD4": "Limnodromus griseus",
+   "FIELD5": "Agujeta Piquicorta",
+   "FIELD6": "Agujeta Piquicorta",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Limnodromus%20griseus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 176,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Marbled Godwit",
+   "FIELD4": "Limosa fedoa",
+   "FIELD5": "Aguja Canela",
+   "FIELD6": "Aguja Canela",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Limosa%20fedoa.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 177,
+   "FIELD2": "Haematopodidae",
+   "FIELD3": "American Oystercatcher",
+   "FIELD4": "Haematopus palliatus",
+   "FIELD5": "Ostrero Americano",
+   "FIELD6": "Ostrero Americano",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Haematopus%20palliatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 178,
+   "FIELD2": "Scolopacidae",
+   "FIELD3": "Wilson's Phalarope",
+   "FIELD4": "Steganopus tricolor",
+   "FIELD5": "Falaropo Tricolor",
+   "FIELD6": "Falaropo Tricolor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Phalaropus%20tricolor.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 179,
+   "FIELD2": "Recurvirostridae",
+   "FIELD3": "Black-necked Stilt",
+   "FIELD4": "Himantopus mexicanus",
+   "FIELD5": "Cig�e�uela Cuellinegra",
+   "FIELD6": "Cig�e�uela Cuellinegra",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Himantopus%20mexicanus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 180,
+   "FIELD2": "Charadriidae",
+   "FIELD3": "Grey Plover",
+   "FIELD4": "Pluvialis squatarola",
+   "FIELD5": "Chorlo Gris",
+   "FIELD6": "Chorlo Gris",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Pluvialis%20squatarola.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 181,
+   "FIELD2": "Charadriidae",
+   "FIELD3": "Semipalmated Plover",
+   "FIELD4": "Charadrius semipalmatus",
+   "FIELD5": "Chorlo Semipalmado",
+   "FIELD6": "Chorlo Semipalmado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Charadrius%20semipalmatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 182,
+   "FIELD2": "Charadriidae",
+   "FIELD3": "Collared Plover",
+   "FIELD4": "Charadrius collaris",
+   "FIELD5": "Chorlo Collarejo",
+   "FIELD6": "Chorlo Collarejo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Charadrius%20collaris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 183,
+   "FIELD2": "Charadriidae",
+   "FIELD3": "Killdeer",
+   "FIELD4": "Charadrius vociferus",
+   "FIELD5": "Chorlo Tild�o",
+   "FIELD6": "Chorlo Tild�o",
+   "FIELD7": " ",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Charadrius%20vociferus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 184,
+   "FIELD2": "Charadriidae",
+   "FIELD3": "Wilson's Plover",
+   "FIELD4": "Charadrius wilsonia",
+   "FIELD5": "Chorlo de Wilson",
+   "FIELD6": "Chorlo de Wilson",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Charadrius%20wilsonia.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 185,
+   "FIELD2": "Laridae",
+   "FIELD3": "Laughing Gull",
+   "FIELD4": "Leucophaeus atricilla",
+   "FIELD5": "Gaviota Reidora",
+   "FIELD6": "Gaviota Reidora",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Leucophaeus%20atricilla.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 186,
+   "FIELD2": "Laridae",
+   "FIELD3": "Grey-headed Gull",
+   "FIELD4": "Larus cirrocephalus",
+   "FIELD5": "Gaviota Cabecigr�s",
+   "FIELD6": "Gaviota Cabecigr�s",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Chroicocephalus%20cirrocephalus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 187,
+   "FIELD2": "Laridae",
+   "FIELD3": "Franklin's Gull",
+   "FIELD4": "Larus pipixcan",
+   "FIELD5": "Gaviota de Franklin",
+   "FIELD6": "Gaviota de Franklin",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Leucophaeus%20pipixcan.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 188,
+   "FIELD2": "Laridae",
+   "FIELD3": "Gull-billed Tern",
+   "FIELD4": "Gelochelidon nilotica",
+   "FIELD5": "Gaviot�n Piquigrueso",
+   "FIELD6": "Gaviot�n Piquigrueso",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Gelochelidon%20nilotica.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 189,
+   "FIELD2": "Laridae",
+   "FIELD3": "Common Tern",
+   "FIELD4": "Sterna hirundo",
+   "FIELD5": "Gaviot�n Com�n",
+   "FIELD6": "Gaviot�n Com�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Sterna%20hirundo.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 190,
+   "FIELD2": "Laridae",
+   "FIELD3": "Black Tern",
+   "FIELD4": "Chlidonias niger",
+   "FIELD5": "Gaviot�n Negro",
+   "FIELD6": "Gaviot�n Negro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Chlidonias%20niger.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 191,
+   "FIELD2": "Laridae",
+   "FIELD3": "Royal Tern",
+   "FIELD4": "Thalasseus maximus",
+   "FIELD5": "Gaviot�n Real",
+   "FIELD6": "Gaviot�n Real",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Thalasseus%20maximus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 192,
+   "FIELD2": "Laridae",
+   "FIELD3": "Elegant Tern",
+   "FIELD4": "Thalasseus elegans",
+   "FIELD5": "Gaviot�n Elegante",
+   "FIELD6": "Gaviot�n Elegante",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Thalasseus%20elegans.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 193,
+   "FIELD2": "Laridae",
+   "FIELD3": "Sandwich Tern",
+   "FIELD4": "Thalasseus sandvicensis",
+   "FIELD5": "Gaviot�n de Sandwich",
+   "FIELD6": "Gaviot�n de Sandwich",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Thalasseus%20sandvicensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 194,
+   "FIELD2": "Laridae",
+   "FIELD3": "Caspian Tern",
+   "FIELD4": "Hydroprogne caspia",
+   "FIELD5": "Gaviot�n Piquirrojo",
+   "FIELD6": "Gaviot�n Piquirrojo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Hydroprogne%20caspia.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 195,
+   "FIELD2": "Rynchopidae",
+   "FIELD3": "Black Skimmer",
+   "FIELD4": "Rynchops niger",
+   "FIELD5": "Rayador Negro (Americano)",
+   "FIELD6": "Rayador Negro (Americano)",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/explore?query=Rynchops%20niger "
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 196,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Ruddy Pigeon",
+   "FIELD4": "Patagioenas subvinacea",
+   "FIELD5": "Paloma Rojiza",
+   "FIELD6": "Paloma Rojiza",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/00_Patagioenas%20subvinacea.MP3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 197,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Ecuadorian Ground-dove",
+   "FIELD4": "Columbina buckleyi*",
+   "FIELD5": "Tortolita Ecuatoriana",
+   "FIELD6": "Tortolita Ecuatoriana",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Columbina%20buckleyi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 198,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Ruddy Quail-dove",
+   "FIELD4": "Geotrygon montana",
+   "FIELD5": "Paloma Perdiz Rojiza",
+   "FIELD6": "Paloma Perdiz Rojiza",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Geotrygon%20montana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 199,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Pallid Dove",
+   "FIELD4": "Leptotila pallida",
+   "FIELD5": "Paloma P�lida",
+   "FIELD6": "Paloma P�lida",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Leptotila%20pallida.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 200,
+   "FIELD2": "Columbidae",
+   "FIELD3": "Blue Ground-dove",
+   "FIELD4": "Claravis pretiosa",
+   "FIELD5": "Tortolita Azul",
+   "FIELD6": "Tortolita Azul",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Claravis%20pretiosa.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 201,
+   "FIELD2": "Psittacidae",
+   "FIELD3": "Red-masked Parakeet",
+   "FIELD4": "Psittacara erythrogenys",
+   "FIELD5": "Perico Caretirrojo",
+   "FIELD6": "Perico Caretirrojo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_LlamadoPsittacara%20erythrogenys.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 202,
+   "FIELD2": "Psittacidae",
+   "FIELD3": "Red-lored Amazon",
+   "FIELD4": "Amazona autumnalis",
+   "FIELD5": "Amazona Frentirroja",
+   "FIELD6": "Amazona Frentirroja",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Amazona%20autumnalis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 203,
+   "FIELD2": "Cuculidae",
+   "FIELD3": "Dark-billed Cuckoo",
+   "FIELD4": "Coccyzus melacoryphus",
+   "FIELD5": "Cuclillo Piquioscuro",
+   "FIELD6": "Cuclillo Piquioscuro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Coccyzus%20melacoryphus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 204,
+   "FIELD2": "Cuculidae",
+   "FIELD3": "Grey-capped Cuckoo",
+   "FIELD4": "Coccyzus lansbergi",
+   "FIELD5": "Cuclillo Cabecigr�s",
+   "FIELD6": "Cuclillo Cabecigr�s",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Coccyzus%20lansbergi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 205,
+   "FIELD2": "Cuculidae",
+   "FIELD3": "Common Squirrel-cuckoo",
+   "FIELD4": "Piaya cayana",
+   "FIELD5": "Cuco Ardilla",
+   "FIELD6": "Cuco Ardilla",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Piaya%20cayana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 206,
+   "FIELD2": "Tytonidae",
+   "FIELD3": "Barn Owl",
+   "FIELD4": "Tyto alba",
+   "FIELD5": "Lechuza Campanaria",
+   "FIELD6": "Lechuza Campanaria",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Tyto%20alba.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 207,
+   "FIELD2": "Strigidae",
+   "FIELD3": "Burrowing Owl",
+   "FIELD4": "Athene cunicularia",
+   "FIELD5": "B�ho Terrestre",
+   "FIELD6": "B�ho Terrestre",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Athene%20cunicularia.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 208,
+   "FIELD2": "Strigidae",
+   "FIELD3": "Striped Owl",
+   "FIELD4": "Asio clamator",
+   "FIELD5": "B�ho Listado",
+   "FIELD6": "B�ho Listado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Asio%20clamator.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 209,
+   "FIELD2": "Nyctibiidae",
+   "FIELD3": "Common Potoo",
+   "FIELD4": "Nyctibius griseus",
+   "FIELD5": "Nictibio (Puntepalo) Com�n",
+   "FIELD6": "Nictibio (Puntepalo) Com�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Nyctibius%20griseus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 210,
+   "FIELD2": "Caprimulgidae",
+   "FIELD3": "Lesser Nighthawk",
+   "FIELD4": "Chordeiles acutipennis",
+   "FIELD5": "A�apero Menor",
+   "FIELD6": "A�apero Menor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Chordeiles%20acutipennis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 211,
+   "FIELD2": "Apodidae",
+   "FIELD3": "White-collared Swift",
+   "FIELD4": "Streptoprocne zonaris",
+   "FIELD5": "Vencejo Cuelliblanco",
+   "FIELD6": "Vencejo Cuelliblanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoStreptoprocne%20zonaris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 212,
+   "FIELD2": "Apodidae",
+   "FIELD3": "Lesser Swallow-tailed Swift",
+   "FIELD4": "Panyptila cayennensis",
+   "FIELD5": "Vencejo Tijereta Menor",
+   "FIELD6": "Vencejo Tijereta Menor",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoPanyptila%20cayennensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 213,
+   "FIELD2": "Apodidae",
+   "FIELD3": "Grey-rumped Swift",
+   "FIELD4": "Chaetura cinereiventris",
+   "FIELD5": "Vencejo Lomigr�s",
+   "FIELD6": "Vencejo Lomigr�s",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoChaetura%20cinereiventris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 214,
+   "FIELD2": "Apodidae",
+   "FIELD3": "Short-tailed Swift",
+   "FIELD4": "Chaetura brachyura",
+   "FIELD5": "Vencejo Colicorto",
+   "FIELD6": "Vencejo Colicorto",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/ex_CantoChaetura%20brachyura.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 215,
+   "FIELD2": "Trochilidae",
+   "FIELD3": "Short-tailed Woodstar",
+   "FIELD4": "Myrmia micrura",
+   "FIELD5": "Estrellita Colicorta",
+   "FIELD6": "Estrellita Colicorta",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Myrmia%20micrura.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 216,
+   "FIELD2": "Trochilidae",
+   "FIELD3": "Esmeraldas Woodstar",
+   "FIELD4": "Chaetocercus berlepschi",
+   "FIELD5": "Estrellita Esmeralde�a",
+   "FIELD6": "Estrellita Esmeralde�a",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_llamados_Chaetocercus%20berlepschi.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 217,
+   "FIELD2": "Trochilidae",
+   "FIELD3": "White-whiskered Hermit",
+   "FIELD4": "Phaethornis yaruqui",
+   "FIELD5": "Ermita�o Bigotiblanco",
+   "FIELD6": "Ermita�o Bigotiblanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Phaethornis%20yaruqui.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 218,
+   "FIELD2": "Trochilidae",
+   "FIELD3": "Rufous-tailed Hummingbird",
+   "FIELD4": "Amazilia tzacatl",
+   "FIELD5": "Amazilia colirrufa",
+   "FIELD6": "Amazilia colirrufa",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Amazilia%20tzacatl.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 219,
+   "FIELD2": "Trogonidae",
+   "FIELD3": "Collared Trogon",
+   "FIELD4": "Trogon collaris",
+   "FIELD5": "Trog�n Collarejo",
+   "FIELD6": "Trog�n Collarejo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Trogon%20collaris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 220,
+   "FIELD2": "Alcedinidae",
+   "FIELD3": "Ringed Kingfisher",
+   "FIELD4": "Megaceryle torquata",
+   "FIELD5": "Mart�n Pescador Grande",
+   "FIELD6": "Mart�n Pescador Grande",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Megaceryle%20torquata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 221,
+   "FIELD2": "Alcedinidae",
+   "FIELD3": "Green Kingfisher",
+   "FIELD4": "Chloroceryle americana",
+   "FIELD5": "Mart�n Pescador Verde",
+   "FIELD6": "Mart�n Pescador Verde",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Chloroceryle%20americana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 222,
+   "FIELD2": "Momotidae",
+   "FIELD3": "Whooping Motmot",
+   "FIELD4": "Momotus subrufescens",
+   "FIELD5": "Momoto Grit�n",
+   "FIELD6": "Momoto Grit�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Momotus%20subrufescens.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 223,
+   "FIELD2": "Picidae",
+   "FIELD3": "Olivaceous Piculet",
+   "FIELD4": "Picumnus olivaceus",
+   "FIELD5": "Picolete Oliv�ceo",
+   "FIELD6": "Picolete Oliv�ceo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Picumnus%20olivaceus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 224,
+   "FIELD2": "Picidae",
+   "FIELD3": "Black-cheeked Woodpecker",
+   "FIELD4": "Melanerpes pucherani",
+   "FIELD5": "Carpintero Carinegro",
+   "FIELD6": "Carpintero Carinegro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamados_Melanerpes%20pucherani.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 225,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Pacific Hornero",
+   "FIELD4": "Furnarius cinnamomeus",
+   "FIELD5": "Hornero del Pac�fico",
+   "FIELD6": "Hornero del Pac�fico",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/explore?query=Hornero%20del%20Pac%C3%Adfico"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 226,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Blackish-headed Spinetail",
+   "FIELD4": "Synallaxis tithys",
+   "FIELD5": "Colaespina Cabecinegra",
+   "FIELD6": "Colaespina Cabecinegra",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Synallaxis%20tithys.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 227,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Plain-brown Woodcreeper",
+   "FIELD4": "Dendrocincla fuliginosa",
+   "FIELD5": "Trepatroncos Pardo",
+   "FIELD6": "Trepatroncos Pardo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Dendrocincla%20fuliginosa.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 228,
+   "FIELD2": "Furnariidae",
+   "FIELD3": "Western Barred Woodcreeper",
+   "FIELD4": "Dendrocolaptes sanctithomae",
+   "FIELD5": "Trepatroncos Barreteado Norte�o",
+   "FIELD6": "Trepatroncos Barreteado Norte�o",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Dendrocolaptes%20sanctithomae.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 229,
+   "FIELD2": "Thamnophilidae",
+   "FIELD3": "White-backed Fire-eye",
+   "FIELD4": "Pyriglena leuconota",
+   "FIELD5": "Ojo de fuego Dorsiblanco",
+   "FIELD6": "Ojo de fuego Dorsiblanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Pyriglena%20leuconota.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 230,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Yellow Tyrannulet",
+   "FIELD4": "Capsiempis flaveola",
+   "FIELD5": "Tiranolete Amarillo",
+   "FIELD6": "Tiranolete Amarillo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Capsiempis%20flaveola.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 231,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Greenish Elaenia",
+   "FIELD4": "Myiopagis viridicata",
+   "FIELD5": "Elenita Verdosa",
+   "FIELD6": "Elenita Verdosa",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Myiopagis%20viridicata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 232,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Yellow-bellied Elaenia",
+   "FIELD4": "Elaenia flavogaster",
+   "FIELD5": "Elenia Penachuda",
+   "FIELD6": "Elenia Penachuda",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Elaenia%20flavogaster.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 233,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Ochre-bellied Flycatcher",
+   "FIELD4": "Mionectes oleagineus",
+   "FIELD5": "Mosquerito Ventriocr�ceo",
+   "FIELD6": "Mosquerito Ventriocr�ceo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Mionectes%20oleagineus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 234,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Common Tody-flycatcher",
+   "FIELD4": "Todirostrum cinereum",
+   "FIELD5": "Espatulilla Com�n",
+   "FIELD6": "Espatulilla Com�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantos_Todirostrum%20cinereum.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 235,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Bran-colored Flycatcher",
+   "FIELD4": "Myiophobus fasciatus",
+   "FIELD5": "Mosquerito Pechirrayado",
+   "FIELD6": "Mosquerito Pechirrayado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiophobus%20fasciatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 236,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Grey-breasted Flycatcher",
+   "FIELD4": "Lathrotriccus griseipectus*",
+   "FIELD5": "Mosquerito Pechigr�s",
+   "FIELD6": "Mosquerito Pechigr�s",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Lathrotriccus%20griseipectus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 237,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Common Vermilion Flycatcher",
+   "FIELD4": "Pyrocephalus rubinus",
+   "FIELD5": "Mosquero Bermell�n",
+   "FIELD6": "Mosquero Bermell�n",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Pyrocephalus%20rubinus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 238,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Short-tailed Field-tyrant",
+   "FIELD4": "Muscigralla brevicauda",
+   "FIELD5": "Tiranito Colicorto",
+   "FIELD6": "Tiranito Colicorto",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Muscigralla%20brevicauda.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 239,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Masked Water-tyrant",
+   "FIELD4": "Fluvicola nengeta",
+   "FIELD5": "Tirano de Agua Enmascarado",
+   "FIELD6": "Tirano de Agua Enmascarado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Fluvicola%20nengeta.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 240,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Rusty-margined Flycatcher",
+   "FIELD4": "Myiozetetes cayanensis",
+   "FIELD5": "Mosquero Alicasta�o",
+   "FIELD6": "Mosquero Alicasta�o",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiozetetes%20cayanensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 241,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Social Flycatcher",
+   "FIELD4": "Myiozetetes similis",
+   "FIELD5": "Mosquero Social",
+   "FIELD6": "Mosquero Social",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiozetetes%20similis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 242,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Baird's Flycatcher",
+   "FIELD4": "Myiodynastes bairdii",
+   "FIELD5": "Mosquero de Baird",
+   "FIELD6": "Mosquero de Baird",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiodynastes%20bairdii.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 243,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Fork-tailed Flycatcher",
+   "FIELD4": "Tyrannus savana",
+   "FIELD5": "Tijereta Sabanera",
+   "FIELD6": "Tijereta Sabanera",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Tyrannus%20savana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 244,
+   "FIELD2": "Tyrannidae",
+   "FIELD3": "Snowy-throated Kingbird",
+   "FIELD4": "Tyrannus niveigularis",
+   "FIELD5": "Tirano Golin�veo",
+   "FIELD6": "Tirano Golin�veo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Tyrannus%20niveigularis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 245,
+   "FIELD2": "Hirundinidae",
+   "FIELD3": "Chestnut-collared Swallow",
+   "FIELD4": "Petrochelidon rufocollaris",
+   "FIELD5": "Golondrina Ruficollareja",
+   "FIELD6": "Golondrina Ruficollareja",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Petrochelidon%20rufocollaris.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 246,
+   "FIELD2": "Hirundinidae",
+   "FIELD3": "Blue-and-white Swallow",
+   "FIELD4": "Pygochelidon cyanoleuca",
+   "FIELD5": "Golondrina Azuliblanca",
+   "FIELD6": "Golondrina Azuliblanca",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Pygochelidon%20cyanoleuca.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 247,
+   "FIELD2": "Hirundinidae",
+   "FIELD3": "Southern Rough-winged Swallow",
+   "FIELD4": "Stelgidopteryx ruficollis",
+   "FIELD5": "Golondrina Alirasposa Sure�a",
+   "FIELD6": "Golondrina Alirrasposa Sure�a",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Stelgidopteryx%20ruficollis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 248,
+   "FIELD2": "Hirundinidae",
+   "FIELD3": "Collared Sand Martin",
+   "FIELD4": "Riparia riparia",
+   "FIELD5": "Mart�n Arenero",
+   "FIELD6": "Mart�n Arenero",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Riparia%20riparia.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 249,
+   "FIELD2": "Hirundinidae",
+   "FIELD3": "Barn Swallow",
+   "FIELD4": "Hirundo rustica",
+   "FIELD5": "Golondrina Tijereta",
+   "FIELD6": "Golondrina Tijereta",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Hirundo%20rustica.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 250,
+   "FIELD2": "Troglodytidae",
+   "FIELD3": "Fasciated Wren",
+   "FIELD4": "Campylorhynchus fasciatus",
+   "FIELD5": "Soterrey Ondeado",
+   "FIELD6": "Soterrey Ondeado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Campylorhynchus%20fasciatus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 251,
+   "FIELD2": "Parulidae",
+   "FIELD3": "American Yellow Warbler",
+   "FIELD4": "Setophaga petechia",
+   "FIELD5": "Reinita Amarilla",
+   "FIELD6": "Reinita Amarilla",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Setophaga%20petechia.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 252,
+   "FIELD2": "Parulidae",
+   "FIELD3": "Buff-rumped Warbler",
+   "FIELD4": "Myiothlypis fulvicauda",
+   "FIELD5": "Reinita Lomiantada",
+   "FIELD6": "Reinita Lomiantada",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Myiothlypis%20fulvicauda.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 253,
+   "FIELD2": "Parulidae",
+   "FIELD3": "Black-lored Yellowthroat",
+   "FIELD4": "Geothlypis auricularis",
+   "FIELD5": "Mascarita embridada",
+   "FIELD6": "Mascarita embridada",
+   "FIELD7": "",
+   "FIELD8": "https://xeno-canto.org/explore?query=Geothlypis%20auricularis"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 254,
+   "FIELD2": "Parulidae",
+   "FIELD3": "Olive-crowned Yellowthroat",
+   "FIELD4": "Geothlypis semiflava",
+   "FIELD5": "Antifacito Coronioliva",
+   "FIELD6": "Antifacito Coronioliva",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Geothlypis%20semiflava.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 255,
+   "FIELD2": "Fringillidae",
+   "FIELD3": "Orange-crowned Euphonia",
+   "FIELD4": "Euphonia saturata",
+   "FIELD5": "Eufonia Coroninaranja",
+   "FIELD6": "Eufonia Coroninaranja",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Euphonia%20saturata.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 256,
+   "FIELD2": "Fringillidae",
+   "FIELD3": "Orange-bellied Euphonia",
+   "FIELD4": "Euphonia xanthogaster",
+   "FIELD5": "Eufonia Ventrinaranja",
+   "FIELD6": "Eufonia Ventrinaranja",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Euphonia%20xanthogaster.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 257,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Palm Tanager",
+   "FIELD4": "Tangara palmarum",
+   "FIELD5": "Tangara Palmera",
+   "FIELD6": "Tangara Palmera",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Thraupis%20palmarum.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 258,
+   "FIELD2": "Cardinalidae",
+   "FIELD3": "Blue-black Grosbeak",
+   "FIELD4": "Cyanoloxia cyanoides",
+   "FIELD5": "Picogrueso Negriazulado",
+   "FIELD6": "Picogrueso Negriazulado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Cyanoloxia%20cyanoides.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 259,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Blue-black Grassquit",
+   "FIELD4": "Volatinia jacarina",
+   "FIELD5": "Espiguero Negriazulado",
+   "FIELD6": "Espiguero Negriazulado",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Volatinia%20jacarina.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 260,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Parrot-billed Seedeater",
+   "FIELD4": "Sporophila peruviana",
+   "FIELD5": "Espiguero Pico de Loro",
+   "FIELD6": "Espiguero Pico de Loro",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Sporophila%20peruviana.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 261,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Yellow-bellied Seedeater",
+   "FIELD4": "Sporophila nigricollis",
+   "FIELD5": "Espiguero Ventriamarillo",
+   "FIELD6": "Espiguero Ventriamarillo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/exCantos_Sporophila%20nigricollis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 262,
+   "FIELD2": "Thraupidae",
+   "FIELD3": "Thick-billed Seed-finch",
+   "FIELD4": "Sporophila funerea",
+   "FIELD5": "Semillero Piquigrueso",
+   "FIELD6": "Semillero Piquigrueso",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Sporophila%20funerea.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 263,
+   "FIELD2": "Icteridae",
+   "FIELD3": "Shiny Cowbird",
+   "FIELD4": "Molothrus bonariensis",
+   "FIELD5": "Vaquero Brilloso",
+   "FIELD6": "Vaquero Brilloso",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Molothrus%20bonariensis.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 264,
+   "FIELD2": "Icteridae",
+   "FIELD3": "Giant Cowbird",
+   "FIELD4": "Molothrus oryzivorus",
+   "FIELD5": "Vaquero Gigante",
+   "FIELD6": "Vaquero Gigante",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Molothrus%20oryzivorus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 265,
+   "FIELD2": "Icteridae",
+   "FIELD3": "Great-tailed Grackle",
+   "FIELD4": "Quiscalus mexicanus",
+   "FIELD5": "Clarinero Coligrande",
+   "FIELD6": "Clarinero Coligrande",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/llamadosFebrero_01_Quiscalus%20mexicanus.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 266,
+   "FIELD2": "Icteridae",
+   "FIELD3": "Yellow-tailed Oriole",
+   "FIELD4": "Icterus mesomelas",
+   "FIELD5": "Bolsero Coliamarillo",
+   "FIELD6": "Bolsero Coliamarillo",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Icterus%20mesomelas.mp3"
+ },
+ {
+   "Inventario ornitol�gico del Biocorredor Estuario r�o Chone - La Segua - Cordillera El B�lsamo": 267,
+   "FIELD2": "Icteridae",
+   "FIELD3": "White-edged Oriole",
+   "FIELD4": "Icterus graceannae",
+   "FIELD5": "Bolsero Filiblanco",
+   "FIELD6": "Bolsero Filiblanco",
+   "FIELD7": "",
+   "FIELD8": "https://multimedia20stg.blob.core.windows.net/especiesaudio/cantosFebrero_Icterus%20graceannae.mp3"
+ }
+]

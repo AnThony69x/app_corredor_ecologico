@@ -1,26 +1,79 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
+import 'package:hive_flutter/hive_flutter.dart';
+
+import 'core/env.dart';
+import 'core/theme/app_theme.dart';
+import 'features/observation/presentation/screens/lista_aves_screen.dart';
+import 'features/observation/presentation/screens/registro_observacion_screen.dart';
+import 'main_menu_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Supabase.initialize(
-    url: 'YOUR_SUPABASE_URL',
-    anonKey: 'YOUR_SUPABASE_ANON_KEY',
-  );
-  runApp(const MyApp());
+
+  // Inicializar Hive para almacenamiento local
+  await Hive.initFlutter();
+
+  // Inicializar Supabase
+  await Supabase.initialize(url: Env.supabaseUrl, anonKey: Env.supabaseAnonKey);
+
+  runApp(const ProviderScope(child: MyApp()));
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends ConsumerWidget {
   const MyApp({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+      title: 'Corredor Ecológico',
+      theme: AppTheme.lightTheme,
+      darkTheme: AppTheme.darkTheme,
+      themeMode: ThemeMode.system, // Usar tema del sistema
+      debugShowCheckedModeBanner: false,
+      home: const MainMenuScreen(),
+    );
+  }
+}
+
+class MenuPrincipalScreen extends StatelessWidget {
+  const MenuPrincipalScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: const Text('Corredor Ecológico')),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            ElevatedButton.icon(
+              icon: const Icon(Icons.list),
+              label: const Text('Lista de Especies'),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (_) => const ListaAvesScreen()),
+                );
+              },
+            ),
+            const SizedBox(height: 24),
+            ElevatedButton.icon(
+              icon: const Icon(Icons.add),
+              label: const Text('Registrar Observación'),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => const RegistroObservacionScreen(),
+                  ),
+                );
+              },
+            ),
+          ],
+        ),
       ),
-      home: const SplashScreen(), // Ponemos SplashScreen como pantalla inicial
     );
   }
 }
@@ -45,10 +98,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   Future<void> verificarConexion() async {
     try {
-      await Supabase.instance.client
-          .from('profiles')
-          .select()
-          .limit(1);
+      await Supabase.instance.client.from('profiles').select().limit(1);
 
       setState(() {
         conexionMensaje = "✅ Conectado a la base de datos";
@@ -59,8 +109,11 @@ class _SplashScreenState extends State<SplashScreen> {
       // Opcional: Navega a la pantalla principal después de un breve delay
       Future.delayed(const Duration(seconds: 2), () {
         if (mounted) {
-          Navigator.of(context).pushReplacement(MaterialPageRoute(
-              builder: (context) => const MyHomePage(title: "Hola mundo")));
+          Navigator.of(context).pushReplacement(
+            MaterialPageRoute(
+              builder: (context) => const MyHomePage(title: "Hola mundo"),
+            ),
+          );
         }
       });
     } catch (e) {
@@ -92,10 +145,14 @@ class _SplashScreenState extends State<SplashScreen> {
                 conexionMensaje!,
                 style: TextStyle(
                   fontSize: 18,
-                  color: conexionMensaje!.contains('✅') ? Colors.green : Colors.red,
+                  color: conexionMensaje!.contains('✅')
+                      ? Colors.green
+                      : Colors.red,
                 ),
               ),
-            if (detalleError != null && conexionMensaje != null && conexionMensaje!.contains('❌'))
+            if (detalleError != null &&
+                conexionMensaje != null &&
+                conexionMensaje!.contains('❌'))
               Padding(
                 padding: const EdgeInsets.only(top: 12.0, left: 24, right: 24),
                 child: Text(
